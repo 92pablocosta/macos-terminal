@@ -1,0 +1,1 @@
+Editing notes.txt file using the command "nano" in macOs terminal.

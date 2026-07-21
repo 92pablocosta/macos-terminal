@@ -1,0 +1,9 @@
+total 40
+drwxr-xr-x@  8 pablo  staff   256  3 mai 13:53 .
+drwx------@ 10 pablo  staff   320  3 mai 13:48 ..
+drwxr-xr-x@  3 pablo  staff    96  3 mai 13:29 .claude
+-rw-r--r--@  1 pablo  staff  8921  2 mai 13:09 context.md
+-rw-r--r--@  1 pablo  staff    32  3 mai 13:48 log.txt
+drwxr-xr-x@  3 pablo  staff    96  3 mai 13:54 logs
+-rw-r--r--@  1 pablo  staff    67  1 mai 12:32 notes.txt
+drwxr-xr-x   4 pablo  staff   128  2 mai 09:22 review
